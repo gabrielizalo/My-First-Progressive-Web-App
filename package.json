@@ -1,0 +1,28 @@
+{
+  "name": "My-First-Progressive-Web-App",
+  "version": "1.0.0",
+  "description": "My personal exercise of the 'Getting Started with Progressive Web Apps' Pluralsight course",
+  "main": "index.html",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "http-server": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielizalo/My-First-Progressive-Web-App.git"
+  },
+  "keywords": [
+    "progressive-web-app",
+    "javascript"
+  ],
+  "author": "Gabriel Porras",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/gabrielizalo/My-First-Progressive-Web-App/issues"
+  },
+  "homepage": "https://github.com/gabrielizalo/My-First-Progressive-Web-App#readme"
+}
