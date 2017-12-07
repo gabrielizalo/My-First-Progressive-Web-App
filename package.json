@@ -9,7 +9,9 @@
   "dependencies": {
     "http-server": "^0.10.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "standard": "^10.0.3"
+  },
   "scripts": {},
   "repository": {
     "type": "git",
