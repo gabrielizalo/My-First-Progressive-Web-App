@@ -110,7 +110,9 @@
 <script id="car-card" type="text/template">
 
   <!--Info about Card Component: https://getmdl.io/components/#cards-section-->
-  <div class="mdl-card mdl-cell mdl-cell--4-col mdl-shadow--6dp" style="background-image: url('{{image}}')">
+  <div class="mdl-card mdl-cell mdl-cell--4-col mdl-shadow--6dp"
+       style="background-image: url('{{image}}')"
+       onclick="pageEvents.loadCarPage('{{details-id}}')">
 
     <div class="mdl-card__title">
             <span class="mdl-card__title-text">
